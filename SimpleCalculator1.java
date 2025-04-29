@@ -3,7 +3,7 @@ public class SimpleCalculator1 {
     
         int a = 10;  
         int b = 5;   
-        char op = '+'; 
+        char op = '+';
 
         int result = 0;
         if (op == '+') {
